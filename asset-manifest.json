@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/dong/static/css/main.f1463920.chunk.css",
+    "main.js": "/dong/static/js/main.4af5b029.chunk.js",
+    "main.js.map": "/dong/static/js/main.4af5b029.chunk.js.map",
+    "runtime-main.js": "/dong/static/js/runtime-main.36724dfc.js",
+    "runtime-main.js.map": "/dong/static/js/runtime-main.36724dfc.js.map",
+    "static/js/2.135f11bc.chunk.js": "/dong/static/js/2.135f11bc.chunk.js",
+    "static/js/2.135f11bc.chunk.js.map": "/dong/static/js/2.135f11bc.chunk.js.map",
+    "static/js/3.6ebf42ea.chunk.js": "/dong/static/js/3.6ebf42ea.chunk.js",
+    "static/js/3.6ebf42ea.chunk.js.map": "/dong/static/js/3.6ebf42ea.chunk.js.map",
+    "index.html": "/dong/index.html",
+    "static/css/main.f1463920.chunk.css.map": "/dong/static/css/main.f1463920.chunk.css.map",
+    "static/js/2.135f11bc.chunk.js.LICENSE.txt": "/dong/static/js/2.135f11bc.chunk.js.LICENSE.txt",
+    "static/media/Chat.02218df6.svg": "/dong/static/media/Chat.02218df6.svg",
+    "static/media/LandingChat.css": "/dong/static/media/ChatBg.b1e1e240.svg",
+    "static/media/Enamaad.fb7ecfa8.svg": "/dong/static/media/Enamaad.fb7ecfa8.svg",
+    "static/media/Etehadiye.6bd1fe76.svg": "/dong/static/media/Etehadiye.6bd1fe76.svg",
+    "static/media/FirstSliderBG.f4aca32b.jpeg": "/dong/static/media/FirstSliderBG.f4aca32b.jpeg",
+    "static/media/Instagram.5e980d1f.svg": "/dong/static/media/Instagram.5e980d1f.svg",
+    "static/media/Linkdin.9c6a3a7f.svg": "/dong/static/media/Linkdin.9c6a3a7f.svg",
+    "static/media/MoneyExchange.2ffe1b8f.svg": "/dong/static/media/MoneyExchange.2ffe1b8f.svg",
+    "static/media/RefreshButton.565abf62.svg": "/dong/static/media/RefreshButton.565abf62.svg",
+    "static/media/SecondSliderBG.7b5597f3.jpg": "/dong/static/media/SecondSliderBG.7b5597f3.jpg",
+    "static/media/ShreddingTheInvoice.13784961.svg": "/dong/static/media/ShreddingTheInvoice.13784961.svg",
+    "static/media/Solvency.85e968c1.svg": "/dong/static/media/Solvency.85e968c1.svg",
+    "static/media/Telegram.a8b336c3.svg": "/dong/static/media/Telegram.a8b336c3.svg",
+    "static/media/ThirdSliderBG.84302381.jpg": "/dong/static/media/ThirdSliderBG.84302381.jpg",
+    "static/media/Twiter.2363dedd.svg": "/dong/static/media/Twiter.2363dedd.svg",
+    "static/media/UpButton.e80776e7.svg": "/dong/static/media/UpButton.e80776e7.svg",
+    "static/media/closeButton.8feeab81.svg": "/dong/static/media/closeButton.8feeab81.svg",
+    "static/media/Toolbar.css": "/dong/static/media/homepageBG.85cb0fd4.jpg",
+    "static/media/index.css": "/dong/static/media/iransans.31d6cfe0.ttf",
+    "static/media/logo.a2420d76.svg": "/dong/static/media/logo.a2420d76.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.36724dfc.js",
+    "static/js/2.135f11bc.chunk.js",
+    "static/css/main.f1463920.chunk.css",
+    "static/js/main.4af5b029.chunk.js"
+  ]
+}
