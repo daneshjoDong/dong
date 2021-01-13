@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/dong/static/css/main.aac38b57.chunk.css",
-    "main.js": "/dong/static/js/main.0107fd38.chunk.js",
-    "main.js.map": "/dong/static/js/main.0107fd38.chunk.js.map",
+    "main.js": "/dong/static/js/main.fa5f7f4a.chunk.js",
+    "main.js.map": "/dong/static/js/main.fa5f7f4a.chunk.js.map",
     "runtime-main.js": "/dong/static/js/runtime-main.5b6a2ef2.js",
     "runtime-main.js.map": "/dong/static/js/runtime-main.5b6a2ef2.js.map",
-    "static/js/2.37276a21.chunk.js": "/dong/static/js/2.37276a21.chunk.js",
-    "static/js/2.37276a21.chunk.js.map": "/dong/static/js/2.37276a21.chunk.js.map",
+    "static/js/2.ce2f50fd.chunk.js": "/dong/static/js/2.ce2f50fd.chunk.js",
+    "static/js/2.ce2f50fd.chunk.js.map": "/dong/static/js/2.ce2f50fd.chunk.js.map",
     "static/js/3.bd1e46d9.chunk.js": "/dong/static/js/3.bd1e46d9.chunk.js",
     "static/js/3.bd1e46d9.chunk.js.map": "/dong/static/js/3.bd1e46d9.chunk.js.map",
     "index.html": "/dong/index.html",
     "static/css/main.aac38b57.chunk.css.map": "/dong/static/css/main.aac38b57.chunk.css.map",
-    "static/js/2.37276a21.chunk.js.LICENSE.txt": "/dong/static/js/2.37276a21.chunk.js.LICENSE.txt",
+    "static/js/2.ce2f50fd.chunk.js.LICENSE.txt": "/dong/static/js/2.ce2f50fd.chunk.js.LICENSE.txt",
     "static/media/Avatar.e57e07de.svg": "/dong/static/media/Avatar.e57e07de.svg",
     "static/media/Chat.02218df6.svg": "/dong/static/media/Chat.02218df6.svg",
     "static/media/LandingChat.css": "/dong/static/media/ChatBg.b86167c9.jpg",
@@ -37,8 +37,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.5b6a2ef2.js",
-    "static/js/2.37276a21.chunk.js",
+    "static/js/2.ce2f50fd.chunk.js",
     "static/css/main.aac38b57.chunk.css",
-    "static/js/main.0107fd38.chunk.js"
+    "static/js/main.fa5f7f4a.chunk.js"
   ]
 }
